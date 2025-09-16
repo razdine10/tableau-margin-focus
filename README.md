@@ -7,42 +7,42 @@ This project analyzes the evolution of profitability ratio between 2024 and 2025
 ## Files
 - Margin Focus_ At-Risk Sub-Categories 2024–2025.twbx: Tableau workbook package.
 
-## Procédure: récupérer le fichier depuis GitHub et l’ouvrir dans Tableau
+## Procedure: get the file from GitHub and open it in Tableau
 
-- **Option 1 — Téléchargement (simple)**
-  1. Ouvrez la page du dépôt GitHub.
-  2. Cliquez sur `Code` > `Download ZIP`.
-  3. Décompressez le ZIP; vous verrez le fichier `.twbx`.
+- **Option 1 — Download (simplest)**
+  1. Open the GitHub repository page.
+  2. Click `Code` > `Download ZIP`.
+  3. Unzip; you will see the `.twbx` file.
 
-- **Option 2 — Cloner le dépôt (recommandé si vous allez republier)**
-  1. Copiez l’URL HTTPS du dépôt.
-  2. Dans le Terminal:
+- **Option 2 — Clone the repository (recommended if you will republish)**
+  1. Copy the repository HTTPS URL.
+  2. In Terminal:
 
 ```bash
 cd "/Users/razdinesaid/Desktop"
-git clone https://github.com/<votre-username>/margin-focus-at-risk-sub-categories-2024-2025.git
+git clone https://github.com/<your-username>/margin-focus-at-risk-sub-categories-2024-2025.git
 cd margin-focus-at-risk-sub-categories-2024-2025
 ```
 
-- **Ouvrir dans Tableau Desktop / Tableau Public (app Desktop)**
-  - Double-cliquez sur le fichier `.twbx` OU ouvrez Tableau > `File` > `Open` et sélectionnez le fichier.
-  - Le `.twbx` contient les sources packagées; vous pouvez modifier feuilles, dashboards et calculs.
-  - Pour publier: `File` > `Save to Tableau Public As…`, puis ajoutez titre/description.
+- **Open in Tableau Desktop / Tableau Public (desktop app)**
+  - Double-click the `.twbx` file OR open Tableau > `File` > `Open` and select the file.
+  - The `.twbx` packages data sources; you can edit sheets, dashboards, and calculations.
+  - To publish: `File` > `Save to Tableau Public As…`, then add title/description.
 
-- **Ouvrir via Tableau Public (web)**
-  1. Connectez-vous sur Tableau Public.
-  2. `Créer` > `Téléverser un classeur` (Upload a workbook).
-  3. Sélectionnez le `.twbx`, puis cliquez sur `Modifier` pour travailler dans le navigateur.
-  4. Enregistrez; le tableau de bord sera disponible sur votre profil.
+- **Open via Tableau Public (web)**
+  1. Sign in to Tableau Public.
+  2. `Create` > `Upload a workbook`.
+  3. Select the `.twbx`, then click `Edit` to work in the browser.
+  4. Save; the dashboard will be available on your profile.
 
-- **Re-pousser vos changements sur GitHub (si vous avez cloné)**
+- **Push your changes back to GitHub (if you cloned)**
 
 ```bash
 git add "Margin Focus_ At-Risk Sub-Categories 2024–2025.twbx"
-git commit -m "Mise à jour du classeur"
+git commit -m "Update workbook"
 git push
 ```
 
 - **Notes**
-  - Si le `.twbx` > 100 Mo, utilisez Git LFS ou allégez le classeur.
-  - Si certaines connexions sont "live", vérifiez qu’elles sont packagées ou reconnectez-les après ouverture.
+  - If the `.twbx` > 100 MB, use Git LFS or reduce the workbook size.
+  - If some connections are live, ensure they are packaged or reconnect them after opening.
