@@ -4,6 +4,10 @@ This project analyzes the evolution of profitability ratio between 2024 and 2025
 
 - Dashboard: https://public.tableau.com/app/profile/razdine.said/viz/MarginFocusAt-RiskSub-Categories20242025/Tableaudebord1?publish=yes
 
+## Dashboard Preview
+
+![Dashboard preview](./dashboard.png)
+
 ## Files
 - Margin Focus_ At-Risk Sub-Categories 2024–2025.twbx: Tableau workbook package.
 
