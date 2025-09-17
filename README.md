@@ -18,15 +18,7 @@ This project analyzes the evolution of profitability ratio between 2024 and 2025
   2. Click `Code` > `Download ZIP`.
   3. Unzip; you will see the `.twbx` file.
 
-- **Option 2 — Clone the repository (recommended if you will republish)**
-  1. Copy the repository HTTPS URL.
-  2. In Terminal:
 
-```bash
-cd "/Users/razdinesaid/Desktop"
-git clone https://github.com/<your-username>/margin-focus-at-risk-sub-categories-2024-2025.git
-cd margin-focus-at-risk-sub-categories-2024-2025
-```
 
 - **Open in Tableau Desktop / Tableau Public (desktop app)**
   - Double-click the `.twbx` file OR open Tableau > `File` > `Open` and select the file.
@@ -39,13 +31,6 @@ cd margin-focus-at-risk-sub-categories-2024-2025
   3. Select the `.twbx`, then click `Edit` to work in the browser.
   4. Save; the dashboard will be available on your profile.
 
-- **Push your changes back to GitHub (if you cloned)**
-
-```bash
-git add "Margin Focus_ At-Risk Sub-Categories 2024–2025.twbx"
-git commit -m "Update workbook"
-git push
-```
 
 - **Notes**
   - If the `.twbx` > 100 MB, use Git LFS or reduce the workbook size.
