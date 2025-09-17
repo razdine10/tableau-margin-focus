@@ -1,37 +1,59 @@
-# Margin Focus: At-Risk Sub-Categories 2024–2025
+# C_Discount Sales & Profit Dashboard
 
-This project analyzes the evolution of profitability ratio between 2024 and 2025. It highlights at-risk sub-categories such as Binders and Tables, which show increased sales but declining margins. The analysis also reveals regional disparities (Central, East, South, West) to help guide strategic business decisions.
+## Overview
+A comprehensive Tableau dashboard tracking C_Discount sales and profits from 2019 to 2025. This interactive dashboard provides detailed insights into business performance across multiple dimensions to support strategic business decisions.
 
-- Dashboard: https://public.tableau.com/app/profile/razdine.said/viz/MarginFocusAt-RiskSub-Categories20242025/Tableaudebord1?publish=yes
+## Dashboard Features
 
-## Dashboard Preview
+### 📊 Key Performance Indicators (KPIs)
+- **Yearly KPIs**: Track annual sales and profit trends from 2019-2025
+- **Monthly KPIs**: Monitor monthly performance patterns and seasonality
+- **Real-time Performance Metrics**: Current year vs. previous year comparisons
 
-![Dashboard preview](./dashboard.png)
+### 🌍 Regional Analysis
+- **Profit Disparities**: Identify high and low-performing regions
+- **Geographic Performance**: Visual mapping of sales distribution
+- **Regional Trends**: Track regional growth patterns over time
 
-## Files
-- Margin Focus_ At-Risk Sub-Categories 2024–2025.twbx: Tableau workbook package.
+### 📦 Product Category Performance
+- **Category Breakdown**: Sales and profit analysis by product categories
+- **Performance Ranking**: Top and bottom-performing categories
+- **Category Trends**: Historical performance tracking by category
 
-## Procedure: get the file from GitHub and open it in Tableau
+### 📈 Business Intelligence Features
+- Interactive filters and drill-down capabilities
+- Time-series analysis with trend forecasting
+- Comparative analysis tools
+- Performance benchmarking
 
-- **Option 1 — Download (simplest)**
-  1. Open the GitHub repository page.
-  2. Click `Code` > `Download ZIP`.
-  3. Unzip; you will see the `.twbx` file.
+## Live Dashboard
+🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/razdine.said/viz/C_DiscountProject/Tableaudebord1?publish=yes)**
 
+## Files in this Repository
+- `C_Discount Sales & Profit Dashboard .twbx` - Main Tableau workbook file
+- `dashboard.png` - Dashboard screenshot/preview
+- `README.md` - This documentation file
 
+## Data Period
+**2019 - 2025** (includes historical data and projections)
 
-- **Open in Tableau Desktop / Tableau Public (desktop app)**
-  - Double-click the `.twbx` file OR open Tableau > `File` > `Open` and select the file.
-  - The `.twbx` packages data sources; you can edit sheets, dashboards, and calculations.
-  - To publish: `File` > `Save to Tableau Public As…`, then add title/description.
+## Usage
+1. Download the `.twbx` file to open in Tableau Desktop
+2. Or access the live interactive version via the Tableau Public link above
+3. Use filters and interactive elements to explore different aspects of the data
 
-- **Open via Tableau Public (web)**
-  1. Sign in to Tableau Public.
-  2. `Create` > `Upload a workbook`.
-  3. Select the `.twbx`, then click `Edit` to work in the browser.
-  4. Save; the dashboard will be available on your profile.
+## Key Insights Support
+This dashboard is designed to support business decisions by providing:
+- Sales performance tracking
+- Profit margin analysis
+- Regional market opportunities identification
+- Product category optimization insights
+- Seasonal trend analysis
+- Forecasting capabilities
 
+## Author
+**Razdine Said**
+- Tableau Public Profile: [razdine.said](https://public.tableau.com/app/profile/razdine.said)
 
-- **Notes**
-  - If the `.twbx` > 100 MB, use Git LFS or reduce the workbook size.
-  - If some connections are live, ensure they are packaged or reconnect them after opening.
+---
+*Last Updated: September 2025*
