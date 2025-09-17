@@ -26,6 +26,9 @@ A comprehensive Tableau dashboard tracking C_Discount sales and profits from 201
 - Comparative analysis tools
 - Performance benchmarking
 
+## Dashboard Preview
+![C_Discount KPI Performance Dashboard](dashboard.png)
+
 ## Live Dashboard
 🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/razdine.said/viz/C_DiscountProject/Tableaudebord1?publish=yes)**
 
