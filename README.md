@@ -1,62 +1,42 @@
-# C_Discount Sales & Profit Dashboard
+# Margin Focus: At-Risk Sub-Categories (2024–2025)
 
 ## Overview
-A comprehensive Tableau dashboard tracking C_Discount sales and profits from 2019 to 2025. This interactive dashboard provides detailed insights into business performance across multiple dimensions to support strategic business decisions.
+An interactive Tableau story exploring why profit ratio declined in 2025 despite higher sales, with a focus on at-risk sub-categories and regional patterns. The experience uses dynamic zone visibility to reveal insights step by step.
 
-## Dashboard Features
+## What you will find
 
-### 📊 Key Performance Indicators (KPIs)
-- **Yearly KPIs**: Track annual sales and profit trends from 2019-2025
-- **Monthly KPIs**: Monitor monthly performance patterns and seasonality
-- **Real-time Performance Metrics**: Current year vs. previous year comparisons
+### 📊 Performance Highlights
+- **Sales vs. Profit Ratio (2024 → 2025)**: Sales increased while the overall profit ratio decreased.
+- **Category Risk**: Binders and Tables show higher sales but lower profitability in 2025.
 
-### 🌍 Regional Analysis
-- **Profit Disparities**: Identify high and low-performing regions
-- **Geographic Performance**: Visual mapping of sales distribution
-- **Regional Trends**: Track regional growth patterns over time
+### 🌍 Regional Signals
+- **Unprofitable Transactions**: More concentrated in the **East** and **Central** regions in 2025.
+- **Flow View**: A Sankey-style breakdown contrasts profitable vs. unprofitable orders across regions and years.
 
-### 📦 Product Category Performance
-- **Category Breakdown**: Sales and profit analysis by product categories
-- **Performance Ranking**: Top and bottom-performing categories
-- **Category Trends**: Historical performance tracking by category
-
-### 📈 Business Intelligence Features
-- Interactive filters and drill-down capabilities
-- Time-series analysis with trend forecasting
-- Comparative analysis tools
-- Performance benchmarking
-
-## Dashboard Preview
-![C_Discount KPI Performance Dashboard](dashboard.png)
+### 🧭 Interactions
+- Radio-button pages to navigate the narrative sections.
+- Dynamic zone visibility to surface context and annotations only when relevant.
+- Tooltips and drill interactions for deeper details.
 
 ## Live Dashboard
-🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/razdine.said/viz/C_DiscountProject/Tableaudebord1?publish=yes)**
+🔗 **View on Tableau Public:** [Margin Focus – At‑Risk Sub‑Categories 2024–2025](https://public.tableau.com/app/profile/razdine.said/viz/MarginFocusAt-RiskSub-Categories20242025/Tableaudebord1?publish=yes)
 
-## Files in this Repository
-- `C_Discount Sales & Profit Dashboard .twbx` - Main Tableau workbook file
-- `dashboard.png` - Dashboard screenshot/preview
-- `README.md` - This documentation file
+## Preview
+![Margin Focus Dashboard](Dashboard.png)
 
-## Data Period
-**2019 - 2025** (includes historical data and projections)
+## Repository contents
+- `Margin Focus_ At-Risk Sub-Categories 2024–2025.twbx` – Tableau workbook
+- `Dashboard.png` – Static preview of the dashboard
+- `README.md` – This documentation
 
-## Usage
-1. Download the `.twbx` file to open in Tableau Desktop
-2. Or access the live interactive version via the Tableau Public link above
-3. Use filters and interactive elements to explore different aspects of the data
-
-## Key Insights Support
-This dashboard is designed to support business decisions by providing:
-- Sales performance tracking
-- Profit margin analysis
-- Regional market opportunities identification
-- Product category optimization insights
-- Seasonal trend analysis
-- Forecasting capabilities
+## How to use
+1. Download the `.twbx` and open it with Tableau Desktop.
+2. Or, explore the interactive version on Tableau Public using the link above.
+3. Use the page selector and filters to move through the story and inspect regions/categories.
 
 ## Author
 **Razdine Said**
-- Tableau Public Profile: [razdine.said](https://public.tableau.com/app/profile/razdine.said)
+- Tableau Public profile: [razdine.said](https://public.tableau.com/app/profile/razdine.said)
 
 ---
-*Last Updated: September 2025*
+*Last updated: September 2025*
