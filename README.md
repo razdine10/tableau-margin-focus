@@ -20,13 +20,15 @@ An interactive Tableau story exploring why profit ratio declined in 2025 despite
 
 ## Live Dashboard
 🔗 **View on Tableau Public:** [Margin Focus – At‑Risk Sub‑Categories 2024–2025](https://public.tableau.com/app/profile/razdine.said/viz/MarginFocusAt-RiskSub-Categories20242025/Tableaudebord1?publish=yes)
+ 
+🔗 **GitHub Repository:** [razdine10/tableau-margin-focus](https://github.com/razdine10/tableau-margin-focus)
 
 ## Preview
-![Margin Focus Dashboard](Dashboard.png)
+![Margin Focus Dashboard](dashboard.png)
 
 ## Repository contents
 - `Margin Focus_ At-Risk Sub-Categories 2024–2025.twbx` – Tableau workbook
-- `Dashboard.png` – Static preview of the dashboard
+- `dashboard.png` – Static preview of the dashboard
 - `README.md` – This documentation
 
 ## How to use
